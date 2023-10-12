@@ -6,4 +6,4 @@ Creating a new branch is quickr and simple.
 do not use Fast forward mode.
 隐藏工作台试验
 远程分支试验
-本地主分支dev试验
+本地主/副分支dev试验
