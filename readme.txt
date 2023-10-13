@@ -8,3 +8,4 @@ do not use Fast forward mode.
 远程分支试验
 本地主/副分支dev试验
 创建标签试验
+创建带有说明的标签
